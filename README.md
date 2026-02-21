@@ -1,10 +1,10 @@
 # exabase_visualiser  
 exabase_visualiser is a solution based on R and shiny package to visualise biodiversity data stored in a database structure called exabase: https://github.com/r-poloni/exabase. This database structure is built upon Darwin Core standard and accomodates both individual based records and occurrence based records. 
 
-This app was designed to suit my own needs, which are mainly visualizing the data from natural history collections, from citizen science, and see what the material I have for study and for sequencing through maps and summary statistics. It is particularly useful for people that need to manage a collection of samples for molecular or morphological studies. It is also useful if you want to visualize and explore the data of a certain species or more species from citizen science and those from your own collection, for a paper or project.
+This app was designed to suit my own needs, which are mainly visualizing the data from natural history collections, from citizen science, and see what the material I have for study and for sequencing through maps and summary statistics. It is particularly useful for people that need to manage a collection of samples for molecular or morphological studies. It is also useful if you want to visualize and explore the data of a certain species or more species from citizen science and those from your own specimens, for a paper or project.
 
 ## Try it out
-A demo version of this app running on the example data (modified for illustrating the app functioning from the data in [Poloni et al. 2023](https://academic.oup.com/zoolinnean/article/200/3/705/7246614?login=false)) is provided with the code and can be accessed here: https://r-poloni.github.io/exabase_visualiser/
+A demo version of this app running on the example data (modified for illustrating the app functioning from the data in [Poloni et al. 2023](https://academic.oup.com/zoolinnean/article/200/3/705/7246614?login=false)) is provided with the code and can be accessed here: https://r-poloni.github.io/exabase_visualiser/ (the first time you launch it it requires some seconds)
 The deployment on the github page has been done with the shiny-live package (https://github.com/RamiKrispin/shinylive-r).
 Try it out!
 
